@@ -1,0 +1,12 @@
+#Control: 15400963
+Nombre: Sergio
+Calificación: 100
+------------------------
+#Control: 15401021
+Nombre: Delia
+Calificación: 100
+------------------------
+#Control: 15401234
+Nombre: Jose
+Calificación: 99 
+------------------------
